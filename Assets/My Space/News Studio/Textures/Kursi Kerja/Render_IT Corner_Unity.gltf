@@ -1,0 +1,226 @@
+{
+    "asset" : {
+        "generator" : "Khronos glTF Blender I/O v1.8.19",
+        "version" : "2.0"
+    },
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                1
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "mesh" : 0,
+            "name" : "Kursi",
+            "rotation" : [
+                0.5340856313705444,
+                0.4634139835834503,
+                -0.4634140133857727,
+                0.5340856313705444
+            ],
+            "scale" : [
+                0.341592013835907,
+                0.341592013835907,
+                0.341592013835907
+            ],
+            "translation" : [
+                -8.87241268157959,
+                -0.06430722773075104,
+                61.881072998046875
+            ]
+        },
+        {
+            "children" : [
+                0
+            ],
+            "name" : "Kursi K006",
+            "rotation" : [
+                0.06823449581861496,
+                0,
+                -0.9976693391799927,
+                -3.1801192790226196e-08
+            ],
+            "scale" : [
+                -0.0007166546420194209,
+                -0.0007166547002270818,
+                -0.0007166546420194209
+            ],
+            "translation" : [
+                1.5795868635177612,
+                0.5457057356834412,
+                -1.3123786449432373
+            ]
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "BesiKursi",
+            "pbrMetallicRoughness" : {
+                "metallicFactor" : 0.718181848526001,
+                "roughnessFactor" : 0.35278642177581787
+            }
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Latex",
+            "pbrMetallicRoughness" : {
+                "baseColorFactor" : [
+                    0,
+                    0,
+                    0,
+                    1
+                ],
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5527864098548889
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "Mesh.171",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2
+                    },
+                    "indices" : 3,
+                    "material" : 0
+                },
+                {
+                    "attributes" : {
+                        "POSITION" : 4,
+                        "NORMAL" : 5,
+                        "TEXCOORD_0" : 6
+                    },
+                    "indices" : 7,
+                    "material" : 1
+                }
+            ]
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 1102,
+            "max" : [
+                740.8963623046875,
+                854.7584228515625,
+                1347.949951171875
+            ],
+            "min" : [
+                -681.140625,
+                -854.7584228515625,
+                -753.6491088867188
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 1102,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 1102,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5123,
+            "count" : 2712,
+            "type" : "SCALAR"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5126,
+            "count" : 2741,
+            "max" : [
+                952.77978515625,
+                848.443359375,
+                1533.850830078125
+            ],
+            "min" : [
+                -952.77978515625,
+                -848.44482421875,
+                -1533.850830078125
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5126,
+            "count" : 2741,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 6,
+            "componentType" : 5126,
+            "count" : 2741,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 7,
+            "componentType" : 5123,
+            "count" : 5976,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 13224,
+            "byteOffset" : 0
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 13224,
+            "byteOffset" : 13224
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 8816,
+            "byteOffset" : 26448
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 5424,
+            "byteOffset" : 35264
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32892,
+            "byteOffset" : 40688
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32892,
+            "byteOffset" : 73580
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 21928,
+            "byteOffset" : 106472
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 11952,
+            "byteOffset" : 128400
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 140352,
+            "uri" : "Render_IT Corner_Unity.bin"
+        }
+    ]
+}

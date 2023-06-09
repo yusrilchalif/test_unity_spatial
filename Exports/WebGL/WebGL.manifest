@@ -1,0 +1,8 @@
+ManifestFileVersion: 1
+CompatibilityAssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testing123_default_0
+      Hash: 70913d6cb1a34150e52180424b752029
+      CRC: 3419124439
+      Dependencies: {}
