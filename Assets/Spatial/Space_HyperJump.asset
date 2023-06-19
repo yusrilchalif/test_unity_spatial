@@ -16,7 +16,6 @@ MonoBehaviour:
   sku: 64800cfe033883589b335724
   packageName: HyperJump Scripting Demo
   thumbnail: {fileID: 2800000, guid: 631ea147a83ff49f59e2fb3e28f24888, type: 3}
-  savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
-    type: 2}
+  savedProjectSettings: {fileID: 0}
   worldID: e-mktdAXUd-Z3DtKeNfNT
   scene: {fileID: 102900000, guid: de75b6a466a5547909a8c1bfa65a513c, type: 3}

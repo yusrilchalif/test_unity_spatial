@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 0
   sku: 647ec092605d888830f3e9eb
-  packageName: News Studio
-  thumbnail: {fileID: 2800000, guid: ec98afacdbba24d42a43833904161aa0, type: 3}
+  packageName: Auditorium
+  thumbnail: {fileID: 2800000, guid: a1c62a04341b97d48aff7a1d85ba18ef, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: e-mktdAXUd-Z3DtKeNfNT
-  scene: {fileID: 102900000, guid: 2f90237ac6f53654fbd8e5cf10d1661d, type: 3}
+  worldID: D-kiGfzhkhLhMwic45DUA
+  scene: {fileID: 102900000, guid: 5ecee081b760c9d49b74c9f79c9e9ebd, type: 3}

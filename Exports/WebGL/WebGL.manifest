@@ -2,7 +2,7 @@ ManifestFileVersion: 1
 CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: testing123_default_0
-      Hash: 471e10ab85e0e3bc57a7ec0a5cf8de11
-      CRC: 1371424154
+      Name: auditorium_default_0
+      Hash: e2eba43052e867a5c8456cc173999083
+      CRC: 2614786629
       Dependencies: {}
