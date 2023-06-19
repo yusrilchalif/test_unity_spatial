@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 0
   sku: 648c0a0c254903cd938685b4
-  packageName: News Room
+  packageName: News Studio
   thumbnail: {fileID: 2800000, guid: ec98afacdbba24d42a43833904161aa0, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
